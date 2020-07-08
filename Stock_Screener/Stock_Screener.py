@@ -1,6 +1,5 @@
 import pandas as pd
 import yfinance as yf
-import pickle as pkl
 
 df = pd.read_excel('tsx_stocks_2020.xlsx')                         # Other files with ticker symbols can be inputed here
 tickers = df['Ticker'].values.tolist()
