@@ -9,12 +9,12 @@ stock_list = []
 for i in tickers[:20]:
     stock = yf.Ticker(i)
     try:                                                               # Additional screening criteria can be added here
-        if stock.info['pegRatio'] < 3:
-            if stock.info['priceToBook'] < 1:
-                if stock.info['priceToSalesTrailing12Months'] < 2:
+        if stock.info['pegRatio'] < 300:
+            if stock.info['priceToBook'] < 100:
+                if stock.info['priceToSalesTrailing12Months'] < 200:
                     stock_list.append(i)
     except:
         pass
 
-with open('stock_list.pkl', 'wb') as file:                   # List of screened stocks can be saved in other formats here
-    pkl.dump(stock_list, file)
+df2 = pd.DataFrame(stock_list, columns=['Tickers'])
+df2.to_csv('stock_list.csv', index=False)        # Screened stocks will be saved in csv format - change save format here
