@@ -13,6 +13,6 @@ I have provided an Excel file with all the current tickers on the TSX, but you c
 ### Step 3
 Input your desired criteria in the stock.info() method in the script.  All stock information is retrieved from Yahoo Finance.  If you want to see some possible screen criteria to input, call the .info function. 
 
-### Step 3
+### Step 4
 Run Stock_Screener.py.  The list of screened stocks will be saved in csv format.  Please note that this script may take a long time for execution to finish - completion time will depend on the number of stocks you want to screen.
 
