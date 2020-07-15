@@ -4,4 +4,4 @@ This repository contains python scripts that help automate various tasks such as
 
 ## Prerequisites
 
-Remember to check if you have the proper python modules installed before running the script for each graph.  Python 3.6 or later must also be used because some scripts contain f-strings. 
+Remember to check if you have the proper python modules installed before running each script.  Python 3.6 or later must also be used because some scripts contain f-strings. 
