@@ -3,7 +3,7 @@
 This bot adds watermark to your pdf files.
 
 ## Getting Started
-You will be prompted to provide the directory paths of your pdf file and watermark upon startup.  The full path is required if the pdf files are not in the same directory as this script.
+You will be prompted to provide the directory paths of your pdf file and watermark upon startup.  The full path is required if the pdf files are not in the same directory as the python script.
 I have included a sample watermark in this directory.  The watermark should be in pdf format and have a transparent background.
 After running this script, the watermarked file would be in the same directory as your original pdf file.
 
