@@ -16,6 +16,6 @@ Required python modules:
     *PyPDF2
   
 ## Example
-![Screenshot](PDF_Watermarker/Sample_File.png)
+![Screenshot](Sample_File.png)
 
 
