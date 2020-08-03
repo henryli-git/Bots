@@ -16,6 +16,7 @@ Required python modules:
     *PyPDF2
   
 ## Example
-![Screenshot](Sample_File.png)
+![Image](Screenshot.png)
+![Image](Sample_File.png)
 
 
