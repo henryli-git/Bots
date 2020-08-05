@@ -35,3 +35,6 @@ def emailer(*args):
 
         print('\nMessage sent')
         print('Thanks for using this program!')
+
+if __name__== "__main__":
+    emailer()
