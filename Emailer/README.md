@@ -19,6 +19,6 @@ Required python modules:
     *email
   
 ## Example
-![Screenshot](Screenshot.jpeg)
+![Screenshot](Screenshot.jpg)
 
 
