@@ -8,7 +8,6 @@ This script is configured to work with your gmail account only.
 Remember to configure your gmail settings to allow this bot to access your gmail account.  The link
 to configure this setting can be found here: https://myaccount.google.com/lesssecureapps
 
-
 ### Prerequisites
 Python 3.6 or later is required.
 
