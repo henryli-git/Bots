@@ -40,6 +40,7 @@ def emailer(*args):
                 print('\nMessage sent')
                 print('Thanks for using this program!')
                 return
+            
         except Exception as e:
             print(e)
             while True:
