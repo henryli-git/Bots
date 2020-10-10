@@ -23,7 +23,7 @@ Required python modules:
     *OS (included in standard library)
     *glob (included in standard library)
   
-## Examples
+## Example
 ![Image](Screenshot.png)
 
 ![Image](Sample_Watermark.png)
