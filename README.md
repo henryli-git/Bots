@@ -1,7 +1,20 @@
-# Bots to Automate Various Tasks
+# Image Watermarker Bot
 
-This repository contains python scripts that help automate various tasks such as stock screening.  More scripts will be added as I get more ideas.
+This bot adds a watermark around the center of an image.
+  Further, the bot would apply the watermark to all the images in a source folder.  
 
-## Prerequisites
+## Getting Started
+Upon startup, you will be prompted to provide the path of your folder containing your source images and the path of your watermark.  The full path is required if the files are not in the same directory as the python script.
+I have included a sample watermark in this directory.  The watermark should have a transparent background.
+  If you are planning to apply a watermark to multiple images.  This script does not resize your images so keep in mind the size of your watermark when applying it over multiple images.
+  
+### Prerequisites
+Python 3.6 or later is required.
 
-Remember to check if you have the proper python modules installed before running each script.  Python 3.6 or later is also required. 
+Required python modules:
+
+    *PIL
+    *OS (included in standard library)
+    *glob (included in standard library)
+  
+## Examples
