@@ -1,7 +1,7 @@
 # Image Watermarker Bot
 
-This bot adds a watermark around the center of an image.
-  Further, the bot would apply the watermark to all the images in a source folder.  
+This bot adds a watermark around the center of an image in various formats like jpg and png (pdfs are not supported).
+  Further, the bot would apply the watermark to all the images in a source folder.    
 
 ## Getting Started
 Upon startup, you will be prompted to provide the path of your folder containing your source images and the path of your watermark.  The full path is required if the files are not in the same directory as the python script.
