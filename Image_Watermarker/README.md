@@ -18,4 +18,6 @@ Required python modules:
     *glob (included in standard library)
   
 ## Examples
-![screenshot](Image_Watermarker/Chocolate_Bar_Ratings_by_Country_of_Cocoa_Bean_Origin.png)
+![screenshot](Screenshot.jpg)
+![screenshot]Sample_Watermark.png)
+![screenshot](Image_Watermarker/Watermarked_Image.jpg)
