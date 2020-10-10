@@ -24,6 +24,6 @@ Required python modules:
     *glob (included in standard library)
   
 ## Examples
-![Image](Screenshot.png
+![Image](Screenshot.png)
 ![Image](Sample_Watermark.png)
 ![Image](Watermarked_Image.jpg)
