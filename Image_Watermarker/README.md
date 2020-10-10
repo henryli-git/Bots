@@ -18,6 +18,6 @@ Required python modules:
     *glob (included in standard library)
   
 ## Examples
-![screenshot](Screenshot.jpg)
-![screenshot]Sample_Watermark.png)
+![screenshot](Image_Watermarker/Screenshot.jpg)
+![screenshot](Image_Watermarker/Sample_Watermark.png)
 ![screenshot](Image_Watermarker/Watermarked_Image.jpg)
