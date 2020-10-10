@@ -19,6 +19,6 @@ Required python modules:
   
 ## Examples
 ![screenshot](Screenshot.jpg)
-![screenshot](Image_Watermarker/Sample_Watermark.png)
-![screenshot](Image_Watermarker/Watermarked_Image.png)
+![screenshot](Sample_Watermark.png)
+![screenshot](Watermarked_Image.jpg)
 
