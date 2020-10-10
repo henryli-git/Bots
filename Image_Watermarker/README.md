@@ -1,6 +1,6 @@
 # Image Watermarker
 
-This bot adds watermarks to images.
+This script adds watermarks to images.
 
 ## Features
     *Supports jpeg and png images (pdfs are not supported)
