@@ -18,11 +18,11 @@ def add_watermark(*args):
 
             position = (int(img_width / 2 - watermark_width / 2), int(img_height / 2 - watermark_height / 2))
 
-            transparent_img = Image.new('RGB', (img_width, img_height))
-            transparent_img.paste(img, (0, 0))
-            transparent_img.paste(watermark, position, mask=watermark)
-            transparent_img.show()
-            transparent_img.save(f'{destination_folder_path}/watermarked_{output_filename}')
+            watermarked_img = Image.new('RGB', (img_width, img_height))
+            watermarked_img.paste(img, (0, 0))
+            watermarked_img.paste(watermark, position, mask=watermark)
+            watermarked_img.show()
+            watermarked_img.save(f'{destination_folder_path}/watermarked_{output_filename}')
 
         print('\nWatermark has been successfully applied')
 
