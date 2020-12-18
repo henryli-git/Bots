@@ -1,6 +1,6 @@
 # Bots
 
-This repository contains python scripts to help automate various tasks.
+This repository contains python scripts that help automate various tasks.
 
 ## Prerequisites
 
