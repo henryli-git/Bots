@@ -24,8 +24,8 @@ Required python modules:
     *xlsxWriter 
 
 ## Example
-Sample Data<space><space>
-![Image](Screenshot_1.png =400x400)<space><space>
+
+![Image](Screenshot_1.png =400x)<space><space>
 ![Image](Screenshot_2.png)<space><space>
 
 Output Files<space><space>
