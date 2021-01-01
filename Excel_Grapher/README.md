@@ -24,7 +24,7 @@ Required python modules:
     *xlsxWriter 
 
 ## Example
-![Image](Screenshot_1.png)<space><space>
+![Image](Screenshot_1.0.png)<space><space>
 ![Image](Screenshot_2.png)<space><space>
 ![Image](Screenshot_3.png)<space><space>
 ![Image](Screenshot_4.png)
