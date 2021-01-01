@@ -23,7 +23,6 @@ def excel_grapher():
             plt.close(img)
 
             writer = pd.ExcelWriter(f'{file_path}/{sheet}.xlsx', engine='xlsxwriter')
-            df.to_excel(writer, sheet_name=sheet)
             df_stats.to_excel(writer, sheet_name=sheet)
             worksheet = writer.sheets[f'{sheet}']
             worksheet.insert_image('B11', '', {'image_data': imgdata})
