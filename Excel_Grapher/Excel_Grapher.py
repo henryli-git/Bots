@@ -23,11 +23,13 @@ def excel_grapher():
             plt.close(img)
 
             writer = pd.ExcelWriter(f'{file_path}/{sheet}.xlsx', engine='xlsxwriter')
-            df_stats.to_excel(writer, sheet_name=sheet)
+            df_stats.to_excel(writer, sheet_name=sheet, startcol=0, startrow=0)
             worksheet = writer.sheets[f'{sheet}']
             worksheet.insert_image('B11', '', {'image_data': imgdata})
             worksheet.set_zoom(150)
             writer.save()
+
+        print('Done')
 
     except Exception as e:
         print(e)
