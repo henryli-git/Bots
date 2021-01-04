@@ -23,7 +23,8 @@ Required python modules:
 ## Example
 ![Image](Screenshot_1.png)
 ![Image](Screenshot_2.png)
-<br/>
+<br/><br/><br/>
+
 ![Image](Screenshot_3.png)
 ![Image](Screenshot_4.png)
 ![Image](Screenshot_5.png)
