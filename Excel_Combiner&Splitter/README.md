@@ -25,11 +25,11 @@ Required python modules:
 ![Image](Screenshot_2.png)
 <br/><br/><br/><br/>
 ![Image](Screenshot_3.png)
-<br/>
+<br/><br/>
 ![Image](Screenshot_4.png)
 <br/><br/><br/><br/>
 ![Image](Screenshot_5.png)
-<br/>
+<br/><br/>
 ![Image](Screenshot_6.png)
 ![Image](Screenshot_7.png)
 
