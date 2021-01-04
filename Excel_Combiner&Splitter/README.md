@@ -6,7 +6,7 @@ This script takes in Excel spreadsheets and either combine the sheets into one s
     *Accepts Excel files in xlsx format
     *Excel file input can contain any number of spreadsheets
     *Sheets are combined by placing their columns of data next to each other in one sheet
-    *When a file is split, there would be one sheet in each new file
+    *For a file split, there would be one sheet in each new file
     
 ## Getting Started
 
