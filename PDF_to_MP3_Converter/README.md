@@ -5,12 +5,13 @@ This script converts PDF files to MP3 files.
 ## Features
     *Powered by Google Translate’s text-to-speech API
     *Can select the pages that need to be converted
+    *Converts one file at a time
     *Converted file would have a female voice
     
 ## Getting Started
 
 The script would ask for the path of the PDF file and the start/end page numbers of the pages that would be converted.
-  After the conversion, the new MP3 file would in the same directory as this script with the same name as the original PDF file.
+  After the conversion, the new MP3 file would have the same name as the original PDF file and be in the same directory as this script.
   Note that the conversion may take a long time if many pages need to be converted.  
 
 ### Prerequisites
