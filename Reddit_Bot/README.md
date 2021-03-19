@@ -4,7 +4,8 @@ This bot continuously upvotes any new post submissions with the desired keyword.
 
 ## Features
     *Powered by the Python Reddit API, Praw
-    *Bot can be configured to perform other actions
+    *Outputs subreddit and post name when keyword is found in the post title
+    *Can be configured to perform other actions
    
 ## Getting Started
 A reddit account must first be created.  Log into the reddit account then go to https://www.reddit.com/prefs/apps to create an application (ensure "script" is chosen in the option menu).
