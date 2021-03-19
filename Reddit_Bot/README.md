@@ -19,6 +19,6 @@ Input the app information and desired keyword in the python script.  Further ins
         *Reddit Script Application
 
   
-## Example console output when scanning r/stocks and r/investing for the keyword "stock"
+### Example console output when scanning r/stocks and r/investing for the keyword "stock"
 ![Image](Screenshot_1.png)
 
