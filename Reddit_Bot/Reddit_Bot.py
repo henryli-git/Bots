@@ -8,7 +8,7 @@ reddit = praw.Reddit(
     password=""                                           #Input password for reddit account here
 )
 
-subreddit = reddit.subreddit("stocks+investing")        #Add subreddits here - separate subreddits with "+"
+subreddit = reddit.subreddit("stocks+investing")        #Add subreddits here - separate subreddits with "+" or input "all" for all subreddits
 for submission in subreddit.stream.submissions():
     if "stock" in submission.title:                     #Change keyword here
         print('***************')
