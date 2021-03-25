@@ -9,10 +9,10 @@ This bot continuously upvotes any new post submissions with the desired keyword.
    
 ## Getting Started
 A reddit account must first be created.  Log into the reddit account then go to https://www.reddit.com/prefs/apps to create an application (ensure "script" is chosen in the option menu).
-Input the app information and desired keyword in the python script.  Further instructions are written in the python script.
+Input the app information and desired keyword in the Python script.  Further instructions are written in the Python script.
 
 ## Prerequisites
-    Required python module:
+    Required Python module:
         *praw
 
     Other Requirements:
