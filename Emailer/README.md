@@ -11,7 +11,7 @@ to configure this setting can be found here: https://myaccount.google.com/lessse
 ### Prerequisites
 Python 3.6 or later is required.
 
-Required python modules:
+Required Python modules:
 
     *os
     *smtplib
