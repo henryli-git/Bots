@@ -17,7 +17,7 @@ The script would ask for the path of the PDF file and the start/end page numbers
 ### Prerequisites
 Python 3.6 or later is required.  As the gtts module uses Google Translate’s text-to-speech API, an internet connection is required.
 
-Required python modules:
+Required Python modules:
 
     *os (standard libary)
     *gtts
