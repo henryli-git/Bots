@@ -17,7 +17,7 @@ The script would ask for the path of the Excel file input (xlsx format).  If the
 ### Prerequisites
 Python 3.6 or later is required.
 
-Required python modules:
+Required Python modules:
 
     *functools (standard libary)
     *pandas
