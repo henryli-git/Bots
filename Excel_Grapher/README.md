@@ -15,7 +15,7 @@ generate separate files for each worksheet.
 ### Prerequisites
 Python 3.6 or later is required.
 
-Required python modules:
+Required Python modules:
 
     *io (standard libary)
     *os (standard libary)
