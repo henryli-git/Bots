@@ -1,5 +1,5 @@
 # Invoice Saver Renamer
-I wrote this script to save invoices in my outlook email based on invoice number, rename them, then move them to another folder. Modify the script to fit your needs. 
+I wrote this script to save invoices in my outlook email based on invoice number. The script would save the pdf file, rename it, then move it to another folder. Modify the script to fit your needs. 
  
 ## Prerequisites
 Script will only work on Window OS and Outlook email.
